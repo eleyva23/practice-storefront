@@ -1,4 +1,4 @@
-import Products from "./Components/Products";
+import Products from "../Components/Products";
 
 export default function Home() {
   return (
@@ -7,7 +7,7 @@ export default function Home() {
     <Products name= "Shot" price= "1.99"/>  
     </div>
     
-  )
+  );
 
 }
  
