@@ -1,5 +1,5 @@
 `use client`;
-
+// Creating a list// product list jsx//
 const products = [
     {id: 1,name:`Laptop`, price:2700},
     {id: 2,name:`headphones`,price: 2800},
